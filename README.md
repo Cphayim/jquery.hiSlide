@@ -7,23 +7,8 @@
 <img alt="hislide效果图" src="http://ofwf89b21.bkt.clouddn.com/hislide.png"/>
 
 ## 0x02 项目结构
-├─┬ jquery.hislide
-│ ├─┬ css 				#编译的css目录
-│ │ ├── jquery.hislide.css
-│ │ └── jquery.hislide.css.map
-│ ├─┬ dist 				#css, js压缩文件目录
-│ │ ├── jquery.hislide.min.css
-│ │ └── jquery.hislide.min.js
-│ ├─┬ js 				#js源码
-│ │ ├── jquery.hislide.js
-│ │ └── jquery-3.1.1.min.js
-│ ├── images 				#例子用图
-│ ├── index.html 			#例子
-│ ├── README.md
-│ ├─┬ sass				#sass源码
-│ │ └── jquery.hislide.scss
 
-<img  style="width:400px;" alt="项目结构" src="http://ofwf89b21.bkt.clouddn.com/path.png"/>
+<img  style="width:400px;" alt="项目结构" src="http://ofwf89b21.bkt.clouddn.com/path1.png"/>
 
 
 ## 0x03 使用指南
