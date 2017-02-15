@@ -6,7 +6,7 @@
 
 ![hislide效果图](http://ofwf89b21.bkt.clouddn.com/hislide.png)
 
-[展示页面](http://cphayim.oschina.io/slider/)
+[效果展示页](http://cphayim.oschina.io/slider/)
 
 
 ## 0x02 项目结构
