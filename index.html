@@ -24,7 +24,7 @@
 		</div>
 		
 		<!-- 第二个轮播模块 -->
-		<div class="slide hi-slide">
+		<div id="mySlide" class="hi-slide">
 			<section class="hi-prev "></section>
 			<section class="hi-next "></section>
 			<ul>
@@ -38,7 +38,7 @@
 			</ul>
 		</div>
 
-		<!-- 第二个轮播模块 -->
+		<!-- 第三个轮播模块 -->
 		<div class="slide hi-slide">
 			<section class="hi-prev "></section>
 			<section class="hi-next "></section>
@@ -56,7 +56,11 @@
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js" ></script>
 		<script type="text/javascript" src="js/jquery.hislide.js" ></script>
 		<script>
-			$('.hi-slide').hiSlide();
+			$('.slide').hiSlide();
+			$('#mySlide').hiSlide({
+				interval: 3000,
+				speed: 500
+			});
 		</script>
 	</body>
 </html>
