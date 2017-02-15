@@ -75,8 +75,9 @@
         $(this).each(function(index, ele) {
             slide(ele,options);
         });
+        // 返回值，以便支持链式调用
+        return this;
     }
-	
 })(jQuery);
 
 /*

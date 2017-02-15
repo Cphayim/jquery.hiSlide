@@ -3,4 +3,4 @@
 jQuery.noConflict();
 
 // zySlide() 只要轮播图的根标签（任何选择器）
-jQuery('.zy-slide').zySlide({speed:300});
+jQuery('.zy-slide').zySlide({speed:600,interval:1000}).css({backgroundColor:"yellow"});
