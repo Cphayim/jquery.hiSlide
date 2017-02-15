@@ -4,16 +4,18 @@
 ## 0x01 概述
 **hislide** 是一款基于 **jQuery 库**的 **7**图 旋转木马轮播组件，它能够帮助你轻松地实现如下的图片轮播效果
 
-<img alt="hislide效果图" src="http://ofwf89b21.bkt.clouddn.com/hislide.png"/>
+![hislide效果图](http://ofwf89b21.bkt.clouddn.com/hislide.png)
+
+[展示页面](http://cphayim.oschina.io/slider/)
+
 
 ## 0x02 项目结构
 
-<img  style="width:400px;" alt="项目结构" src="http://ofwf89b21.bkt.clouddn.com/path1.png"/>
-
+![项目结构树](http://ofwf89b21.bkt.clouddn.com/path1.png)
 
 ## 0x03 使用指南
 
-### 1. 引入
+### 1. 引入文件
 
 首先在页面内引入`jquery.hislide.css`，并在确保引入`jquery.js`的前提下引入`jquery.hislide.js`
 
